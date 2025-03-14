@@ -146,3 +146,10 @@ After successfully installing a Linux distro, create a write-up in your reposito
 ```
 
 Good Luck! If you have any questions, or you got stuck along the way, feel free to ask me questions in the WhatsApp groupchat! You can even discuss about your tasks there.
+
+# Proof of Completion
+## Name : Avantika Sanyal
+## Registration number : 240905648
+## Screenshot of Terminal :
+![Linux Terminal Screenshot](intro-to-linux.png)
+
